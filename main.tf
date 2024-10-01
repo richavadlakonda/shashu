@@ -4,3 +4,7 @@ provider "azurerm" {
     }
   
 }
+
+provider "aws" {
+  
+}
