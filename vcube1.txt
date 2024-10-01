@@ -1,2 +1,6 @@
 this is first line
+<<<<<<<<updated upstream
 this is sec file
+===========
+this is thirdline
+>>>>>>>>stashed changes
